@@ -235,6 +235,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Развлекательные",Ю HD
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA TV RUSSIA" tvg-country="RU" tvg-language="Russian" tvg-logo="http://viva-russia.ru/scheduler/epg/channel-logo.jpg" group-title="Music",VIVA TV RUSSIA
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 tvg-id="1hd" tvg-logo="https://iptvx.one/picons/1hd-music.png" group-title="Музыкальные",1HD
 http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 tvg-id="bridge-tv" tvg-logo="https://iptvx.one/picons/bridge-tv.png" group-title="Музыкальные",Bridge
